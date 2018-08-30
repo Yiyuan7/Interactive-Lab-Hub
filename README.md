@@ -1,4 +1,4 @@
-# Interactive-Lab-Hub
+# Interactive-Lab-Hub of Yiyuan Feng
 
 **[Homework 1](https://github.com/Yiyuan7/Interactive-Lab-Hub/blob/master/HM1)**
 
