@@ -13,3 +13,5 @@
 **[lab4](https://github.com/Yiyuan7/IDD-Fa18-Lab4)**
 
 **[pre-lab5](https://github.com/Yiyuan7/prelab5)**
+
+**[lab5](https://github.com/Yiyuan7/IDD-Fa18-Lab5)**
