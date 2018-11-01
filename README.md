@@ -19,3 +19,5 @@
 **[lab6](https://github.com/Yiyuan7/IDD-Fa18-Lab6)**
 
 **[lab7](https://github.com/Yiyuan7/IDD-Fa18-Lab7)**
+
+**[final_project](https://github.com/Yiyuan7/Final-Project)**
